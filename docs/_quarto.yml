@@ -54,10 +54,10 @@ website:
       style: floating
       align: left
       contents:
-        - pages/overview.ipynb
-        - section: "Examples"
-          contents:
-            - pages/example.ipynb                   
+        - pages/getting_started.ipynb
+        # - section: "Examples"
+        #   contents:
+        #     - pages/example.ipynb                   
 
 lightbox: true
 
