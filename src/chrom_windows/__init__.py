@@ -47,7 +47,7 @@ import unittest, itertools
 #     print("'{}': {}".format(chrom, repr(d)))
 # print('}')
 
-from chromwindow.chrom_sizes import chrom_sizes
+from chrom_window.chrom_sizes import chrom_sizes
 
 
 
