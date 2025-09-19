@@ -11,8 +11,8 @@ build:
   number: 0
   script: $PYTHON -m pip install . -vv
   python_version_independent: true
-  entry_points:
-    - chrom-windows = chrom_windows:chrom_windows
+  # entry_points:
+  #   - chrom-windows = chrom_windows:chrom_windows
 
 requirements:
   host:
