@@ -37,7 +37,7 @@ interlinks:
     #   inv: objects-test.txt
 
 website:
-  title: "chrom-window"
+  title: "chrom-windows"
   page-navigation: true
   navbar:
     left:
@@ -54,7 +54,7 @@ website:
       style: floating
       align: left
       contents:
-        - pages/getting_started.ipynb
+        - pages/overview.ipynb
         - section: "Examples"
           contents:
             - pages/example.ipynb                   
@@ -76,7 +76,7 @@ format:
       theme: neutral 
 
 quartodoc:
-  package: chrom-window
+  package: chrom-windows
   style: pkgdown
   dir: api
   render_interlinks: true
