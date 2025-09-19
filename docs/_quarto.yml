@@ -57,6 +57,9 @@ website:
         - section: "Overview"
           contents:
             - pages/overview.ipynb
+        - section: "Example notebook"
+          contents:
+            - pages/exampleipynb
 
 
 lightbox: true
