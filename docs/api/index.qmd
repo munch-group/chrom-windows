@@ -1,0 +1,10 @@
+# Function reference {.doc .doc-index}
+
+## Gene information
+
+These functions ...
+
+
+| | |
+| --- | --- |
+| [window](window.qmd#chrom_windows.window) |  |

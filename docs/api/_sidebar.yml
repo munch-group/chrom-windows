@@ -1,0 +1,9 @@
+website:
+  sidebar:
+  - contents:
+    - api/index.qmd
+    - contents:
+      - api/window.qmd
+      section: Gene information
+    id: api
+  - id: dummy-sidebar

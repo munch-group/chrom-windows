@@ -1,0 +1,13 @@
+# window { #chrom_windows.window }
+
+```python
+chrom_windows.window(
+    size=None,
+    logbase=1,
+    even=None,
+    empty=True,
+    fill=None,
+    start=0,
+)
+```
+
